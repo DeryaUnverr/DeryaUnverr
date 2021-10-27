@@ -78,9 +78,9 @@ Here are some ideas to get you started:
  <h3 align="left">Connect with me:</h3>
   </a>
 
-  <!--Linkedin-->
+<!--Linkedin-->
     <a href="https://www.linkedin.com/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="Linkedın" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="javascript" width="40" height="40"/> 
   </a>
    <!--HackerRank-->
      <a href="https://www.hackerrank.com/" target="_blank"> 
