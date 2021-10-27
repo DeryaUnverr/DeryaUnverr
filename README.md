@@ -1,7 +1,6 @@
 
 <p> 
- <h2 align="center">Hi 👋 I'm Derya & Full Stack Developer</h2></p>
-
+  <h2 align="center">Hi 👋 I'm Derya & Full Stack Developer</h2></p>
  <img src="https://github.com/MahmutGuleryuz/MahmutGuleryuz/blob/main/background.png" alt="csharp" width="1600" height="250"/> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -46,24 +45,18 @@
   </a>
    <!--JQuery-->
     <a href="https://jquery.com/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="JQuery" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="javascript" width="40" height="40"/> 
   </a> 
   <!--Boostrap--> 
  <a href="https://getbootstrap.com/" target="_blank"> 
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Boostrap" width="40">
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap Icons CSS logo" width="40">
  </a>
   <!--React-->
     <a href="https://tr.reactjs.org/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="javascript" width="40" height="40"/> 
   </a>
- 
-
 </p>
-
- 
 <p align="left">
-**DeryaUnverr/DeryaUnverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -77,18 +70,15 @@ Here are some ideas to get you started:
 -->
  <h3 align="left">Connect with me:</h3>
   </a>
-
-<!--Linkedin-->
+  <!--Linkedin-->
     <a href="https://www.linkedin.com/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="javascript" width="40" height="40"/> 
   </a>
    <!--HackerRank-->
      <a href="https://www.hackerrank.com/" target="_blank"> 
-    <img src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker.png" alt="HackerRank" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="javascript" width="40" height="40"/> 
   </a>
    <!--CoderByte-->
      <a href="https://coderbyte.com/" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHa18snSaCG6haGzaKWfmzMXn6Ach0y3_5A&amp;usqp=CAU" alt="javascript" width="40" height="40"/> 
   </a>
-  
-  
