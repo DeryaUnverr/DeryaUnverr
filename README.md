@@ -1,7 +1,6 @@
-
 <p> 
   <h2 align="center">Hi 👋 I'm Derya & Full Stack Developer</h2></p>
- <img src="https://github.com/MahmutGuleryuz/MahmutGuleryuz/blob/main/background.png" alt="csharp" width="1600" height="250"/> 
+ <img src="https://konfinity-assets.s3.ap-south-1.amazonaws.com/blog/Full+Stack.jpg" alt="csharp" width="1400" height="400"/> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
