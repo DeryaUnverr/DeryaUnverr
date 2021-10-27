@@ -46,15 +46,15 @@
   </a>
    <!--JQuery-->
     <a href="https://jquery.com/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="JQuery" width="40" height="40"/> 
   </a> 
   <!--Boostrap--> 
  <a href="https://getbootstrap.com/" target="_blank"> 
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap Icons CSS logo" width="40">
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Boostrap" width="40">
  </a>
   <!--React-->
     <a href="https://tr.reactjs.org/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" width="40" height="40"/> 
   </a>
  
 
@@ -79,17 +79,19 @@ Here are some ideas to get you started:
   </a>
     <!--Personel Blog-->
      <a href="https://" target="_blank"> 
-    <img src="https://icon-library.com/images/icon-for-blog/icon-for-blog-28.jpg" alt="javascript" width="40" height="40"/> 
+    <img src="https://icon-library.com/images/icon-for-blog/icon-for-blog-28.jpg" alt="PersonelBlog-" width="40" height="40"/> 
   </a>
   <!--Linkedin-->
     <a href="https://www.linkedin.com/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="Linkedin" width="40" height="40"/> 
   </a>
    <!--HackerRank-->
      <a href="https://www.hackerrank.com/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/128/hackerrank_logo_icon_145206.png" alt="javascript" width="40" height="40"/> 
+    <img src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker.png" alt="HackerRank" width="40" height="40"/> 
   </a>
    <!--CoderByte-->
      <a href="https://coderbyte.com/" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHa18snSaCG6haGzaKWfmzMXn6Ach0y3_5A&amp;usqp=CAU" alt="javascript" width="40" height="40"/> 
   </a>
+  
+  
