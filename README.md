@@ -81,3 +81,12 @@ Here are some ideas to get you started:
      <a href="https://www.coderbyte.com/profile/deryaunverr" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHa18snSaCG6haGzaKWfmzMXn6Ach0y3_5A&amp;usqp=CAU" alt="javascript" width="40" height="40"/> 
   </a>
+  <p align="left">
+  <h3 align="left">Certificates:</h3>
+  </p>
+   </a>
+   <!--Vektorel Akademi-->
+     <a href="https://www.hackerrank.com/unverderyaa" target="_blank"> 
+    <img src="https://yt3.ggpht.com/ytc/AKedOLQ2ouXeYP8ek3DB0gW-YGtbkAaNPY2WAfiuUR9C=s88-c-k-c0x00ffffff-no-rj" alt="javascript" width="40" height="40"/> 
+  </a>
+  
