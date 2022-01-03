@@ -58,21 +58,17 @@
 <p align="left">
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on EntityFramework Core, LinQ
+- 🌱 I’m currently learning EntityFramework Core, LinQ, MVC, JavaScript, Node.js etc.
+
  <h3 align="left">Connect with me:</h3>
   </a>
   <!--Linkedin-->
-    <a href="https://www.linkedin.com/in/derya-unver/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="javascript" width="40" height="40"/> 
+     <a href="https://www.linkedin.com/in/derya-unver/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="40" height="40"/> 
   </a>
+    <!--Gmail-->
+  <a href="mailto:unverderyaa@gmail.com"><img  src="https://github.com/timche/gmail-desktop/raw/main/media/icon.svg"  height="40" width="40" style="max-width: 100%;"></a>
    <!--HackerRank-->
      <a href="https://www.hackerrank.com/unverderyaa" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="javascript" width="40" height="40"/> 
