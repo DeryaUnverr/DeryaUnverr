@@ -1,6 +1,8 @@
 <p> 
   <h2 align="center">Hi 👋 I'm Derya & Full Stack Developer</h2></p>
- <img src="https://github.com/DeryaUnverr/DeryaUnverr/blob/main/FullStack.jpg" alt="csharp" width="1400" height="300"/> 
+ <div align="center" >
+   <img  src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="csharp" width="400" height="300"/> 
+  </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
