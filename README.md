@@ -87,4 +87,8 @@ Here are some ideas to get you started:
      <a href="https://www.vektorelakademi.com/?redirect=0" target="_blank"> 
     <img src="https://yt3.ggpht.com/ytc/AKedOLQ2ouXeYP8ek3DB0gW-YGtbkAaNPY2WAfiuUR9C=s88-c-k-c0x00ffffff-no-rj" alt="javascript" width="40" height="40"/> 
   </a>
+     <!--Patika Akademi-->
+     <a href="https://verified.cv/en/verify/23492368666111?ref=email" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/92598857?s=64&v=4" alt="patikainavitas" width="40" height="40"/> 
+  </a>
   
