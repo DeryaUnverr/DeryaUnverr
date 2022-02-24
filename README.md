@@ -92,7 +92,7 @@ Here are some ideas to get you started:
     <img src="https://avatars.githubusercontent.com/u/92598857?s=64&v=4" alt="patikainavitas" width="40" height="40"/> 
   </a>
       <!--TechCareer.Net-->
-     <a href="https://www.techcareer.net/mainpage/tr/" target="_blank"> 
+     <a href="https://github.com/DeryaUnverr/DeryaUnverr/blob/main/TechCareer.Net-%20Derya%20%C3%9Cnver.pdf" target="_blank"> 
     <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFSHJSqIzsWeQ/company-logo_100_100/0/1633345580101?e=1653523200&v=beta&t=bPVsGrs3a1R2a_99G5bkVf7IDQX8ChOAtMYFfsROYow" alt="techcareer.Net" width="40" height="40"/> 
   </a>
   
