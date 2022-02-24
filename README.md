@@ -91,4 +91,8 @@ Here are some ideas to get you started:
      <a href="https://verified.cv/en/verify/23492368666111?ref=email" target="_blank"> 
     <img src="https://avatars.githubusercontent.com/u/92598857?s=64&v=4" alt="patikainavitas" width="40" height="40"/> 
   </a>
+      <!--TechCareer.Net-->
+     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGmvBqpSnKMnWTBslsBZwrwWplf?projector=1&messagePartId=0.1" target="_blank"> 
+    <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFSHJSqIzsWeQ/company-logo_100_100/0/1633345580101?e=1653523200&v=beta&t=bPVsGrs3a1R2a_99G5bkVf7IDQX8ChOAtMYFfsROYow" alt="techcareer.Net" width="40" height="40"/> 
+  </a>
   
