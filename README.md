@@ -52,10 +52,7 @@
  <a href="https://getbootstrap.com/" target="_blank"> 
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap Icons CSS logo" width="40">
  </a>
-  <!--React-->
-    <a href="https://tr.reactjs.org/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="javascript" width="40" height="40"/> 
-  </a>
+ 
 </p>
 <p align="left">
 Here are some ideas to get you started:
