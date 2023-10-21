@@ -20,11 +20,11 @@ Here are some ideas to get you started:
     <!--Gmail-->
   <a href="mailto:unverderyaa@gmail.com"><img  src="https://github.com/timche/gmail-desktop/raw/main/media/icon.svg"  height="40" width="40" style="max-width: 100%;"></a>
    <!--HackerRank-->
-     <a href="https://www.hackerrank.com/unverderyaa" target="_blank"> 
+     <a href="https://www.hackerrank.com/profile/deryaunver05" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="javascript" width="40" height="40"/> 
   </a>
    <!--CoderByte-->
-     <a href="https://www.coderbyte.com/profile/deryaunverr" target="_blank"> 
+     <a href="https://www.coderbyte.com/profile/DeryaaUnver" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHa18snSaCG6haGzaKWfmzMXn6Ach0y3_5A&amp;usqp=CAU" alt="javascript" width="40" height="40"/> 
   </a>
   <p align="left">
