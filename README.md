@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </a>
      <!--Medium-->
      <a href="https://medium.com/@deryaunver05" target="_blank"> 
-    <img src="https://icons8.com/icon/bocK2vOACVtF/medium-monogram" alt="javascript" width="40" height="40"/> 
+    <img src="https://camo.githubusercontent.com/62e64e26e4fb4cf9f89649ea65f9b936094bc39d99770a9165911c925ddc2e20/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6d656469756d2e737667" alt="javascript" width="40" height="40"/> 
   </a>
   <p align="left">
   <h3 align="left">Certificates:</h3>
