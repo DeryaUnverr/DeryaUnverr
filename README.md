@@ -4,56 +4,7 @@
    <img  src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="csharp" width="400" height="300"/> 
   </div>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- 
- <!--C#-->
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/381/381704.png" alt="csharp" width="40" height="40"/> 
-  </a> 
- 
- <!--NodeJs-->
-  <a href="https://nodejs.org/en/" target="_blank">      
-    <img src="https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-p3zvdhaajh0bxurlgqp1gszveuzuf58gd4auf7uve8.png" alt="django" width="40" height="40"/> 
-  </a> 
-<!--MsSql-->
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" alt="csharp" width="40" height="40"/> 
-  </a>
-  <!--Dotnet-->
-    <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-   <!--C++-->
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>  
-   <!--C-->
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-   <!--HTML-->
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-   <!--Css-->
- 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-   <!--JavaScript-->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-   <!--JQuery-->
-    <a href="https://jquery.com/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <!--Boostrap--> 
- <a href="https://getbootstrap.com/" target="_blank"> 
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap Icons CSS logo" width="40">
- </a>
- 
-</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36550960/107998459-d536c200-6fed-11eb-9f8a-946370a0ed61.png"><img src="https://user-images.githubusercontent.com/36550960/107998459-d536c200-6fed-11eb-9f8a-946370a0ed61.png" width="30" height="30" style="max-width: 100%;"></a>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36550960/107997079-9ce1b480-6fea-11eb-977e-9ed16387e0fa.png"><img src="https://user-images.githubusercontent.com/36550960/107997079-9ce1b480-6fea-11eb-977e-9ed16387e0fa.png" width="30" height="30" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36550960/107997731-2e055b00-6fec-11eb-949f-030fce54fa80.png"><img src="https://user-images.githubusercontent.com/36550960/107997731-2e055b00-6fec-11eb-949f-030fce54fa80.png" width="30" height="30" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36550960/107997932-ab30d000-6fec-11eb-8ebc-84741334179b.png"><img src="https://user-images.githubusercontent.com/36550960/107997932-ab30d000-6fec-11eb-8ebc-84741334179b.png" width="30" height="30" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36550960/107997991-cb608f00-6fec-11eb-8ffe-e330c6406da8.png"><img src="https://user-images.githubusercontent.com/36550960/107997991-cb608f00-6fec-11eb-8ffe-e330c6406da8.png" width="30" height="30" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36550960/107998050-f0550200-6fec-11eb-850a-49a27e573805.png"><img src="https://user-images.githubusercontent.com/36550960/107998050-f0550200-6fec-11eb-850a-49a27e573805.png" width="30" height="30" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36550960/107998536-0adbab00-6fee-11eb-95cc-e75c9e11d1d4.png"><img src="https://user-images.githubusercontent.com/36550960/107998536-0adbab00-6fee-11eb-95cc-e75c9e11d1d4.png" width="40" height="30" style="max-width: 100%;"></a>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png"><img src="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png" width="30" height="30" style="max-width: 100%;"></a>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36550960/107999139-6b1f1c80-6fef-11eb-8942-01522e016725.png"><img src="https://user-images.githubusercontent.com/36550960/107999139-6b1f1c80-6fef-11eb-8942-01522e016725.png" width="30" height="30" style="max-width: 100%;"></a>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36550960/107999241-a15c9c00-6fef-11eb-9913-f3bff6046c03.png"><img src="https://user-images.githubusercontent.com/36550960/107999241-a15c9c00-6fef-11eb-9913-f3bff6046c03.png" width="30" height="30" style="max-width: 100%;"></a>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36550960/108389598-7e610080-7218-11eb-9bdd-a70cd04a24c5.png"><img src="https://user-images.githubusercontent.com/36550960/108389598-7e610080-7218-11eb-9bdd-a70cd04a24c5.png" width="30" height="30" style="max-width: 100%;"></a></p>
 <p align="left">
 Here are some ideas to get you started:
 
