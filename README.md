@@ -27,6 +27,10 @@ Here are some ideas to get you started:
      <a href="https://www.coderbyte.com/profile/DeryaaUnver" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHa18snSaCG6haGzaKWfmzMXn6Ach0y3_5A&amp;usqp=CAU" alt="javascript" width="40" height="40"/> 
   </a>
+     <!--Medium-->
+     <a href="https://medium.com/@deryaunver05" target="_blank"> 
+    <img src="https://icons8.com/icon/bocK2vOACVtF/medium-monogram" alt="javascript" width="40" height="40"/> 
+  </a>
   <p align="left">
   <h3 align="left">Certificates:</h3>
   </p>
