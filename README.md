@@ -1,5 +1,5 @@
-<p> 
-  <h2 align="center">Hi 👋 I'm Derya & Full Stack Developer</h2></p>
+<!--<p><h2 align="center">Hi 👋 I'm Derya & Full Stack Developer</h2></p>-->
+  <p><h2>Hi 👋 I'm Derya & Full Stack Developer</h2></p>
  <!--<div align="center" >
    <img  src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="csharp" width="400" height="300"/> 
   </div>-->
